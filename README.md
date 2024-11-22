@@ -46,17 +46,27 @@ At the end, print the list of remaining tasks in descending order of priority.
 Example:
 <br>
 Input:
+<br>
 6
+<br>
 ADD Task1 10
+<br>
 ADD Task2 15
+<br>
 ADD Task3 5
+<br>
 GET
+<br>
 ADD Task4 20
+<br>
 GET
 <br>
 Output:
+<br>
 Task2
+<br>
 Task4
+<br>
 Remaining tasks: [('Task1', 10), ('Task3', 5)]
 
 --------------------------------------------------------------------------------------------
