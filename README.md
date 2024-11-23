@@ -112,27 +112,27 @@ Example Input
 <br>
 4
 <br>
-100   2
+40 1
 <br>
-19   1
+20 2
 <br>
-27   2
+30 1
 <br>
-25   1
+10 2
 <br>
 Example Output
-Maximum Profit: 127
+Maximum Profit: 60
 <br>
-Scheduled Tasks: [100, 27]
+Scheduled Tasks: [40, 20]
 <br>
 Explanation
 <br>
-Input represents 4 tasks with (profit, deadline) as (100, 2), (19, 1), (27, 2), (25, 1).
+Input represents 4 tasks with (profit, deadline) as (40, 1), (20, 2), (30, 1), (10, 2).
 <br>
 Using a Max Priority Queue, tasks with higher profit are prioritized while ensuring deadlines are respected:
 <br>
-Task (100, 2) is scheduled in slot 2.
+Task (20, 2) is scheduled in slot 2.
 <br>
-Task (27, 2) is scheduled in slot 1.
+Task (40, 1) is scheduled in slot 1.
 <br>
-Total profit: 100 + 27 = 127.
+Total profit: 20 + 40 = 60.
