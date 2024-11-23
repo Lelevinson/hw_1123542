@@ -85,14 +85,14 @@ Example Input
 <br>
 3
 <br>
-1 4 7
+21 23 26
 <br>
-2 5 8
+22 24 25
 <br>
-3 6 9
+27 28 29
 <br>
 Example Output
-Merged Array: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Merged Array: [21, 22, 23, 24, 25, 26, 27, 28, 29]
 
 --------------------------------------------------------------------------------------------
 Question 4: Schedule Tasks with Deadlines Using Max Priority Queue
