@@ -47,27 +47,23 @@ Example:
 <br>
 Input:
 <br>
-6
+5
 <br>
-ADD Task1 10
+ADD Task1 3
 <br>
-ADD Task2 15
+ADD Task2 6
 <br>
-ADD Task3 5
-<br>
-GET
-<br>
-ADD Task4 20
+ADD Task3 9
 <br>
 GET
+<br>
+ADD Task4 7
 <br>
 Output:
 <br>
-Task2
+Task3
 <br>
-Task4
-<br>
-Remaining tasks: [('Task1', 10), ('Task3', 5)]
+Remaining tasks: [('Task4', 7), ('Task2', 6), ('Task1', 3)]
 
 --------------------------------------------------------------------------------------------
 Question 3: Merge K Sorted Arrays Using Min Priority Queue
