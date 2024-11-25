@@ -16,12 +16,10 @@ The first line contains a list of integers representing the level-order traversa
 Output Format:
 Print an integer representing the diameter of the binary tree.
 <br>
-Example:
-<br>
-Input:
+### Input:
 [1, 2, 3, 4, 5, 6, -1, -1, -1, 7, 8, 9, 10, -1, -1]
 <br>
-Output:
+### Output:
 6
 
 ---
@@ -43,9 +41,7 @@ Output Format:
 For every "GET" operation, print the name of the task with the highest priority.
 At the end, print the list of remaining tasks in descending order of priority.
 <br>
-Example:
-<br>
-Input:
+### Input:
 <br>
 5
 <br>
@@ -59,7 +55,7 @@ GET
 <br>
 ADD Task4 7
 <br>
-Output:
+### Output:
 <br>
 Task3
 <br>
@@ -81,7 +77,7 @@ K sorted arrays, each entered on a new line, with elements separated by spaces.
 Output Format
 A single line containing the merged sorted array.
 <br>
-Example Input
+### Input:
 <br>
 3
 <br>
@@ -91,7 +87,7 @@ Example Input
 <br>
 27 28 29
 <br>
-Example Output
+### Output:
 Merged Array: [21, 22, 23, 24, 25, 26, 27, 28, 29]
 
 ---
@@ -108,7 +104,7 @@ Output Format
 The maximum profit that can be achieved.
 The list of scheduled tasks in the order they are executed.
 <br>
-Example Input
+### Input:
 <br>
 4
 <br>
@@ -120,7 +116,7 @@ Example Input
 <br>
 10 2
 <br>
-Example Output
+### Output:
 Maximum Profit: 60
 <br>
 Scheduled Tasks: [40, 20]
