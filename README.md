@@ -16,7 +16,7 @@ The first line contains a list of integers representing the level-order traversa
 Output Format:
 Print an integer representing the diameter of the binary tree.
 <br>
-### Input:
+#### Input:
 [1, 2, 3, 4, 5, 6, -1, -1, -1, 7, 8, 9, 10, -1, -1]
 <br>
 ### Output:
