@@ -25,7 +25,7 @@ Output:
 5
 
 ---
-Question 2: Heap Sort - Build a Priority Queue for Tasks
+### Question 2: Heap Sort - Build a Priority Queue for Tasks
 <br>
 Problem Statement:
 Write a program to manage a task priority queue using a max heap. Each task has a name and a priority level. Your program should allow:
@@ -66,7 +66,7 @@ Task3
 Remaining tasks: [('Task4', 7), ('Task2', 6), ('Task1', 3)]
 
 ---
-Question 3: Merge K Sorted Arrays Using Min Priority Queue
+### Question 3: Merge K Sorted Arrays Using Min Priority Queue
 <br>
 You are given K sorted arrays of integers. Write a Python program to merge these arrays into a single sorted array using a Min Priority Queue.
 Your program should:
@@ -95,7 +95,7 @@ Example Output
 Merged Array: [21, 22, 23, 24, 25, 26, 27, 28, 29]
 
 ---
-Question 4: Schedule Tasks with Deadlines Using Max Priority Queue
+### Question 4: Schedule Tasks with Deadlines Using Max Priority Queue
 <br>
 You are given N tasks, each with a profit and a deadline. Write a Python program to schedule the tasks such that the maximum profit is achieved, using a Max Priority Queue.
 Each task must be completed within its deadline (1-based index), and only one task can be scheduled at a time.
