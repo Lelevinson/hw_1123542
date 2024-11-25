@@ -1,4 +1,4 @@
-# Data Structure HW 2
+## Data Structure HW 2
 # Levinson_1123542
 --------------------------------------------------------------------------------------------
 Question 1: Binary Tree - Find the Diameter of a Binary Tree
