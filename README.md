@@ -1,7 +1,7 @@
 # Data Structure HW 2
 ### by Levinson_1123542
 ---
-Question 1: Binary Tree - Find the Diameter of a Binary Tree
+### Question 1: Binary Tree - Find the Diameter of a Binary Tree
 <br>
 Problem Statement:
 Write a program to calculate the diameter of a binary tree. The diameter of a binary tree is the length of the longest path between any two nodes in the tree. The path may or may not pass through the root.
@@ -24,7 +24,7 @@ Input:
 Output:
 5
 
---------------------------------------------------------------------------------------------
+---
 Question 2: Heap Sort - Build a Priority Queue for Tasks
 <br>
 Problem Statement:
@@ -65,7 +65,7 @@ Task3
 <br>
 Remaining tasks: [('Task4', 7), ('Task2', 6), ('Task1', 3)]
 
---------------------------------------------------------------------------------------------
+---
 Question 3: Merge K Sorted Arrays Using Min Priority Queue
 <br>
 You are given K sorted arrays of integers. Write a Python program to merge these arrays into a single sorted array using a Min Priority Queue.
@@ -94,7 +94,7 @@ Example Input
 Example Output
 Merged Array: [21, 22, 23, 24, 25, 26, 27, 28, 29]
 
---------------------------------------------------------------------------------------------
+---
 Question 4: Schedule Tasks with Deadlines Using Max Priority Queue
 <br>
 You are given N tasks, each with a profit and a deadline. Write a Python program to schedule the tasks such that the maximum profit is achieved, using a Max Priority Queue.
